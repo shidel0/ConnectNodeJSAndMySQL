@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_site",
+  "version": "1.0.0",
+  "description": "Файловые хранилища на node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bael Almazbekov <bael.almazbekov@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
